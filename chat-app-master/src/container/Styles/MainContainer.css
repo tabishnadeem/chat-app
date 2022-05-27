@@ -1,0 +1,26 @@
+
+.nextui-c-kArxtH{
+    flex-direction: row !important;
+    overflow: hidden !important;
+
+}
+.mainCont{
+  text-align: center;
+  height: 100vh;
+  /* width: 100vw; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: beige;
+}
+.chatListContainer {
+  flex: 1;
+  overflow-y: auto;
+  /* background-color: aquamarine; */
+}
+
+.chatContainer {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+}
